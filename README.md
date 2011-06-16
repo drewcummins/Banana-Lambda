@@ -1,4 +1,4 @@
-Banana Lambda is a prototype for a small language and a naive implementation of an interpreter. As it is now, it's possible to manipulate some expressions and define methods. Some control structures exist but are being added.
+Banana Lambda is a prototype for a small language and a naive implementation of an interpreter. As it is now, it's possible to manipulate some expressions and define methods. Some control structures exist but are being added. Here's an example of some interaction with the interpreter:
 
     5 * (3 + 2)^2
     > 125
